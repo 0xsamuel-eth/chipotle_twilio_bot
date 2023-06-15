@@ -1,3 +1,3 @@
-# twitter_fetch
+# chipotle_twilio_bot
 
-Python program to instantly fetch codes from Twitter account and message to receiver using Twilio and Twitter APIs
+Python bot that instantly fetches Chipotle codes from Twitter account and sends them to a phone number using Twilio and Twitter APIs
